@@ -5,5 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.simx.codekopilabs.MainActivity">
-
+    <Button
+        android:id="@+id/btnQrCode"
+        android:text="QRCODE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 </LinearLayout>
